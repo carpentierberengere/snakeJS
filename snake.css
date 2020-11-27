@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+  }
+  
+  canvas {
+    background-color: black;
+    border: 2px solid;
+    border-color: chartreuse;
+    margin:auto;
+    
+  }
+  
+  header {
+    text-align: center;
+    color: chartreuse;
+    font-family: 'Abril Fatface', cursive;
+  }
+  
+  article{
+    display: flex;
+    align-items: center;
+  }
+  
